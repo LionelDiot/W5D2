@@ -1,0 +1,20 @@
+body {
+  background-color: #f0f0f0; 
+  color : #939393 ;
+}
+.container {
+  background-color: #ffffff;
+}
+.jumbotron {
+	background-image: url('welcome_photo.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+.comment-title {
+  font-style: italic;
+}
+.bolded {
+  text-decoration: underline  ;
+  font-style:normal;
+}
